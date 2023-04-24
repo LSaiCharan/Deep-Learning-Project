@@ -1,7 +1,7 @@
 # Deep Learning Project
 This Repository contains the project "Detection and Predicting Air Quality Index (AQI) level in a Specific City using Deep Learning".
 
-## This project proposes a novel approach for detecting and predicting air pollution
+This project proposes a novel approach for detecting and predicting air pollution
 levels in a specific city using deep learning and Air Quality Index (AQI). The
 method employs a RNN-LSTM Model to analyze historical air quality data,
 including AQI, from multiple sources, such as meteorological and air quality

@@ -18,3 +18,10 @@ using AQI as an effective measure of air pollution and leveraging deep learning
 techniques to tackle this critical environmental issue. The study offers a
 promising solution to the problem and presents an opportunity for wider
 application of this method in environmental monitoring and management.
+
+## Libraries used:
+-> NumPy
+-> matplotlib
+-> Pandas
+-> Keras
+-> Tensorflow
